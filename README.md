@@ -1,7 +1,6 @@
 - i like coding
 - python is cool i use that
 - i'm working on a math formula solver
-- super cool repo is for school only
 - currently learning C++ and C#
 - lost
 - very lost
