@@ -1,6 +1,4 @@
 - i like coding
 - python is cool i use that
-- i'm working on a math formula solver
-- currently learning C++ and C#
-- lost
-- very lost
+- currently learning C++ and kinda learning C#
+- i wanna make a game using sdl or opentk
