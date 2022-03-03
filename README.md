@@ -1,4 +1,4 @@
 - i like coding
 - python is cool i use that
-- currently learning C++ and kinda learning C#
+- improving C++ and learning Lua
 - i wanna make a game using sdl or opentk
