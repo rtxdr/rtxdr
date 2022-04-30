@@ -1,4 +1,1 @@
-- i like coding
-- python is cool i use that
-- improving C++ and learning Lua
-- i wanna make a game using sdl or opentk
+WHAT THE FUCK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
